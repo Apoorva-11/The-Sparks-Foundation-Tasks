@@ -8,8 +8,8 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month ( January-2021 )
 - **Internship Type** - Work from Home
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=ggr26Q7uBUY)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Apoorva-11/The-Sparks-Foundation-Tasks/blob/main/student%20marks%20predictor.ipynb)
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
