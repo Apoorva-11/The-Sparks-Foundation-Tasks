@@ -26,7 +26,7 @@ _Please click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Apoorva-11/The-Sparks-Foundation-Tasks/blob/main/DECISION%20TREE%20CLASSIFIER%20-%20Task%206.ipynb)
 
 
-### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+### # Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Please click on the images on right side to view my solution._
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
